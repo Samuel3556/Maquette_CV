@@ -1,3 +1,7 @@
 body{
-    color: brown; background-color: rgb(193, 255, 158);text-align: center;
+    color: brown; background-color: rgb(158, 252, 255);text-align: center;
 }
+#countdown{
+    color: blue;font-weight: 900;font-size: large;background-color: rgb(153, 255, 29);border-radius: 20px;width: 550px;justify-content: center;
+}
+.Compte{display: flex;margin-left: 30%;margin-right: 30%;}
