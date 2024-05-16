@@ -1,7 +1,16 @@
-body{
-    color: brown; background-color: rgb(158, 252, 255);text-align: center;
+header{
+    color: rgb(255, 69, 69); background-color: rgb(249, 255, 158);text-align: center;border-radius: 20px;
 }
 #countdown{
     color: blue;font-weight: 900;font-size: large;background-color: rgb(153, 255, 29);border-radius: 20px;width: 550px;justify-content: center;
 }
 .Compte{display: flex;margin-left: 30%;margin-right: 30%;}
+footer{
+    background-color: rgb(255, 146, 4);border-radius: 20px;margin-top: 10px;padding-bottom: 3px;
+}
+main{
+    color: rgb(255, 69, 69); background-color: rgb(205, 255, 158);text-align: center;border-radius: 20px;
+}
+body{
+    color: rgb(255, 69, 69); background-color: rgb(76, 255, 195);text-align: center;
+}
